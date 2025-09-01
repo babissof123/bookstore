@@ -1,0 +1,2116 @@
+[
+  {
+    "isbn13": 100000012201655,
+    "title": "ΛΑΤΙΝΙΚΑ Γ ΛΥΚ (ΤΕΥΧΟΣ Β) ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.35,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201655.jpg"
+  },
+  {
+    "isbn13": 100000011000044,
+    "title": "ΓΛΩΣΣΑ Α ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000044.jpg"
+  },
+  {
+    "isbn13": 100000011000020,
+    "title": "ΓΛΩΣΣΑ Α ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α΄ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000020.jpg"
+  },
+  {
+    "isbn13": 100000012100729,
+    "title": "ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Β ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100729.jpg"
+  },
+  {
+    "isbn13": 100000012100934,
+    "title": "ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Β ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100934.jpg"
+  },
+  {
+    "isbn13": 100000011001386,
+    "title": "ΓΡΑΜΜΑΤΙΚΗ Ε   ΣΤ ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 4.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001386.jpg"
+  },
+  {
+    "isbn13": 100000011000334,
+    "title": "ΓΛΩΣΣΑ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000334.jpg"
+  },
+  {
+    "isbn13": 100000012101238,
+    "title": "ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101238.jpg"
+  },
+  {
+    "isbn13": 100000012100057,
+    "title": "ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100057.jpg"
+  },
+  {
+    "isbn13": 100000012100323,
+    "title": "ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Α ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100323.jpg"
+  },
+  {
+    "isbn13": 100000012101771,
+    "title": "Η ΦΥΣΙΚΗ ΜΕ ΠΕΙΡΑΜΑΤΑ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101771.jpg"
+  },
+  {
+    "isbn13": 100000011001799,
+    "title": "ΦΥΣΙΚΑ (ΕΡΕΥΝΩ ΚΑΙ ΑΝΑΚΑΛΥΠΤΩ) ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001799.jpg"
+  },
+  {
+    "isbn13": 100000011000686,
+    "title": "ΑΝΘΟΛΟΓΙΟ ΛΟΓΟΤΕΧΝΙΚΩΝ ΚΕΙΜΕΝΩΝ Γ   Δ ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000686.jpg"
+  },
+  {
+    "isbn13": 100000011001188,
+    "title": "ΙΣΤΟΡΙΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001188.jpg"
+  },
+  {
+    "isbn13": 100000012202072,
+    "title": "ΑΛΓΕΒΡΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202072.jpg"
+  },
+  {
+    "isbn13": 100000012100590,
+    "title": "ΙΣΤΟΡΙΑ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ ΓΡΑΜΜΑΤΕΙΑΣ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100590.jpg"
+  },
+  {
+    "isbn13": 100000012100583,
+    "title": "ΓΡΑΜΜΑΤΙΚΗ ΤΗΣ ΝΕΑΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100583.jpg"
+  },
+  {
+    "isbn13": 100000012201709,
+    "title": "ΦΥΣΙΚΗ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠ. ΥΓΕΙΑΣ ΤΕΥΧΟΣ Β",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201709.jpg"
+  },
+  {
+    "isbn13": 100000012201730,
+    "title": "ΦΥΣΙΚΗ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠ. ΥΓΕΙΑΣ ΤΕΥΧΟΣ Β ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201730.jpg"
+  },
+  {
+    "isbn13": 100000011000563,
+    "title": "ΙΣΤΟΡΙΑ Γ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000563.jpg"
+  },
+  {
+    "isbn13": 100000011000204,
+    "title": "ΑΝΘΟΛΟΓΙΟ ΛΟΓΟΤΕΧΝΙΚΩΝ ΚΕΙΜΕΝΩΝ Α   Β ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000204.jpg"
+  },
+  {
+    "isbn13": 100000012100255,
+    "title": "ΚΕΙΜΕΝΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 5.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100255.jpg"
+  },
+  {
+    "isbn13": 100000011000129,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Δ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 0.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000129.jpg"
+  },
+  {
+    "isbn13": 100000011001690,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001690.jpg"
+  },
+  {
+    "isbn13": 100000011001737,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Δ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001737.jpg"
+  },
+  {
+    "isbn13": 100000011001713,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001713.jpg"
+  },
+  {
+    "isbn13": 100000011001720,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001720.jpg"
+  },
+  {
+    "isbn13": 100000011000792,
+    "title": "ΑΓΓΛΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000792.jpg"
+  },
+  {
+    "isbn13": 100000011001140,
+    "title": "ΓΛΩΣΣΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001140.jpg"
+  },
+  {
+    "isbn13": 100000011001119,
+    "title": "ΓΛΩΣΣΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001119.jpg"
+  },
+  {
+    "isbn13": 100000011001133,
+    "title": "ΓΛΩΣΣΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001133.jpg"
+  },
+  {
+    "isbn13": 100000012201785,
+    "title": "ΒΙΟΛΟΓΙΑ Γ ΛΥΚ. (ΤΕΥΧΟΣ Β) ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΥΓΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201785.jpg"
+  },
+  {
+    "isbn13": 100000011000099,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000099.jpg"
+  },
+  {
+    "isbn13": 100000012200757,
+    "title": "ΕΚΦΡΑΣΗ ΕΚΘΕΣΗ Γ ΛΥΚ. (ΤΕΥΧΟΣ Γ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200757.jpg"
+  },
+  {
+    "isbn13": 100000012200023,
+    "title": "ΑΛΓΕΒΡΑ ΚΑΙ ΣΤΟΙΧΕΙΑ ΠΙΘΑΝΟΤΗΤΩΝ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200023.jpg"
+  },
+  {
+    "isbn13": 100000011000341,
+    "title": "ΓΛΩΣΣΑ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000341.jpg"
+  },
+  {
+    "isbn13": 100000012201587,
+    "title": "ΛΑΤΙΝΙΚΗ ΓΡΑΜΜΑΤΙΚΗ Β ΛΥΚ. ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201587.jpg"
+  },
+  {
+    "isbn13": 100000011001089,
+    "title": "ΓΕΩΓΡΑΦΙΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001089.jpg"
+  },
+  {
+    "isbn13": 100000011000518,
+    "title": "ΓΛΩΣΣΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000518.jpg"
+  },
+  {
+    "isbn13": 100000011000303,
+    "title": "ΓΛΩΣΣΑ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000303.jpg"
+  },
+  {
+    "isbn13": 100000011000310,
+    "title": "ΓΛΩΣΣΑ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000310.jpg"
+  },
+  {
+    "isbn13": 100000011001126,
+    "title": "ΓΛΩΣΣΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001126.jpg"
+  },
+  {
+    "isbn13": 100000012200108,
+    "title": "ΒΙΟΛΟΓΙΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200108.jpg"
+  },
+  {
+    "isbn13": 100000011001331,
+    "title": "ΦΥΣΙΚΑ (ΕΡΕΥΝΩ ΚΑΙ ΑΝΑΚΑΛΥΠΤΩ) Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 4.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001331.jpg"
+  },
+  {
+    "isbn13": 100000012200726,
+    "title": "ΒΙΟΛΟΓΙΑ Β ΛΥΚ. ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200726.jpg"
+  },
+  {
+    "isbn13": 100000012100019,
+    "title": "ΟΜΗΡΙΚΑ ΕΠΗ ΟΔΥΣΣΕΙΑ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100019.jpg"
+  },
+  {
+    "isbn13": 100000012201631,
+    "title": "ΘΕΜΑΤΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΙΣΤΟΡΙΑΣ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201631.jpg"
+  },
+  {
+    "isbn13": 100000012100668,
+    "title": "ΣΥΝΤΑΚΤΙΚΟ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 4.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100668.jpg"
+  },
+  {
+    "isbn13": 100000011000365,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000365.jpg"
+  },
+  {
+    "isbn13": 100000011000389,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000389.jpg"
+  },
+  {
+    "isbn13": 100000011000327,
+    "title": "ΓΛΩΣΣΑ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000327.jpg"
+  },
+  {
+    "isbn13": 100000012201617,
+    "title": "ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΑ - ΦΙΛΟΣΟΦΙΚΟΣ ΛΟΓΟΣ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201617.jpg"
+  },
+  {
+    "isbn13": 100000011000907,
+    "title": "ΙΣΤΟΡΙΑ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000907.jpg"
+  },
+  {
+    "isbn13": 100000011000396,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 0.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000396.jpg"
+  },
+  {
+    "isbn13": 100000011000037,
+    "title": "ΓΛΩΣΣΑ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000037.jpg"
+  },
+  {
+    "isbn13": 100000011000570,
+    "title": "ΙΣΤΟΡΙΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000570.jpg"
+  },
+  {
+    "isbn13": 100000011000488,
+    "title": "ΓΛΩΣΣΑ Γ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000488.jpg"
+  },
+  {
+    "isbn13": 100000011000495,
+    "title": "ΓΛΩΣΣΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000495.jpg"
+  },
+  {
+    "isbn13": 100000012200818,
+    "title": "ΙΣΤΟΡΙΑ ΤΟΥ ΝΕΟΤΕΡΟΥ ΚΑΙ ΤΟΥ ΣΥΓΧΡΟΝΟΥ ΚΟΣΜΟΥ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ   Γ ΕΣΠΕΡΙΝΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200818.jpg"
+  },
+  {
+    "isbn13": 100000011000433,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000433.jpg"
+  },
+  {
+    "isbn13": 100000011000440,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000440.jpg"
+  },
+  {
+    "isbn13": 100000011000143,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Α ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000143.jpg"
+  },
+  {
+    "isbn13": 100000011000051,
+    "title": "ΓΛΩΣΣΑ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000051.jpg"
+  },
+  {
+    "isbn13": 100000011000075,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000075.jpg"
+  },
+  {
+    "isbn13": 100000011000105,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000105.jpg"
+  },
+  {
+    "isbn13": 100000011000082,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000082.jpg"
+  },
+  {
+    "isbn13": 100000011000112,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000112.jpg"
+  },
+  {
+    "isbn13": 100000011000938,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000938.jpg"
+  },
+  {
+    "isbn13": 100000011000945,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000945.jpg"
+  },
+  {
+    "isbn13": 100000012200122,
+    "title": "ΓΡΑΜΜΑΤΙΚΗ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200122.jpg"
+  },
+  {
+    "isbn13": 100000012201594,
+    "title": "ΡΗΤΟΡΙΚΑ ΚΕΙΜΕΝΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 6.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201594.jpg"
+  },
+  {
+    "isbn13": 100000012101566,
+    "title": "ΦΥΣΙΚΗ Γ ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101566.jpg"
+  },
+  {
+    "isbn13": 100000011000594,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000594.jpg"
+  },
+  {
+    "isbn13": 100000011000600,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000600.jpg"
+  },
+  {
+    "isbn13": 100000011000617,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 0.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000617.jpg"
+  },
+  {
+    "isbn13": 100000011000624,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000624.jpg"
+  },
+  {
+    "isbn13": 100000011000631,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Δ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000631.jpg"
+  },
+  {
+    "isbn13": 100000011001355,
+    "title": "ΑΝΘΟΛΟΓΙΟ ΛΟΓΟΤΕΧΝΙΚΩΝ ΚΕΙΜΕΝΩΝ Ε   ΣΤ ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 5.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001355.jpg"
+  },
+  {
+    "isbn13": 100000012200214,
+    "title": "ΙΣΤΟΡΙΑ ΤΟΥ ΑΡΧΑΙΟΥ ΚΟΣΜΟΥ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200214.jpg"
+  },
+  {
+    "isbn13": 100000012200238,
+    "title": "ΚΕΙΜΕΝΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ Α ΤΕΥΧΟΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 6.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200238.jpg"
+  },
+  {
+    "isbn13": 100000012100927,
+    "title": "ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100927.jpg"
+  },
+  {
+    "isbn13": 100000011001591,
+    "title": "ΓΛΩΣΣΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001591.jpg"
+  },
+  {
+    "isbn13": 100000011001577,
+    "title": "ΓΛΩΣΣΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001577.jpg"
+  },
+  {
+    "isbn13": 100000011001607,
+    "title": "ΓΛΩΣΣΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001607.jpg"
+  },
+  {
+    "isbn13": 100000011001584,
+    "title": "ΓΛΩΣΣΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001584.jpg"
+  },
+  {
+    "isbn13": 100000011001560,
+    "title": "ΓΛΩΣΣΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001560.jpg"
+  },
+  {
+    "isbn13": 100000011001706,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001706.jpg"
+  },
+  {
+    "isbn13": 100000011001836,
+    "title": "ΙΣΤΟΡΙΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001836.jpg"
+  },
+  {
+    "isbn13": 100000012200832,
+    "title": "ΚΕΙΜΕΝΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 6.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200832.jpg"
+  },
+  {
+    "isbn13": 100000012200504,
+    "title": "ΕΚΦΡΑΣΗ ΕΚΘΕΣΗ Β ΛΥΚΕΙΟΥ (ΤΕΥΧΟΣ Β)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200504.jpg"
+  },
+  {
+    "isbn13": 100000011000372,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000372.jpg"
+  },
+  {
+    "isbn13": 100000012100682,
+    "title": "ΟΜΗΡΙΚΑ ΕΠΗ ΙΛΙΑΔΑ Β ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100682.jpg"
+  },
+  {
+    "isbn13": 100000012100873,
+    "title": "ΜΕΣΑΙΩΝΙΚΗ ΚΑΙ ΝΕΟΤΕΡΗ ΙΣΤΟΡΙΑ Β ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100873.jpg"
+  },
+  {
+    "isbn13": 100000012100071,
+    "title": "ΑΡΧΑΙΑ ΙΣΤΟΡΙΑ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100071.jpg"
+  },
+  {
+    "isbn13": 100000011000525,
+    "title": "ΓΛΩΣΣΑ Γ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000525.jpg"
+  },
+  {
+    "isbn13": 100000011000501,
+    "title": "ΓΛΩΣΣΑ Γ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000501.jpg"
+  },
+  {
+    "isbn13": 100000011001195,
+    "title": "ΙΣΤΟΡΙΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001195.jpg"
+  },
+  {
+    "isbn13": 100000011001829,
+    "title": "ΙΣΤΟΡΙΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001829.jpg"
+  },
+  {
+    "isbn13": 100000011000709,
+    "title": "ΕΙΚΑΣΤΙΚΑ Γ   Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000709.jpg"
+  },
+  {
+    "isbn13": 100000012100422,
+    "title": "ΦΥΣΙΚΗ ΑΓΩΓΗ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100422.jpg"
+  },
+  {
+    "isbn13": 100000012101252,
+    "title": "ΒΙΟΛΟΓΙΑ Β   Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101252.jpg"
+  },
+  {
+    "isbn13": 100000012100408,
+    "title": "ΤΕΧΝΟΛΟΓΙΑ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100408.jpg"
+  },
+  {
+    "isbn13": 100000012100132,
+    "title": "ΓΕΩΛΟΓΙΑ ΓΕΩΓΡΑΦΙΑ Α ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100132.jpg"
+  },
+  {
+    "isbn13": 100000011000150,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000150.jpg"
+  },
+  {
+    "isbn13": 100000011000655,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Γ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000655.jpg"
+  },
+  {
+    "isbn13": 100000012100774,
+    "title": "ΕΙΚΑΣΤΙΚΑ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100774.jpg"
+  },
+  {
+    "isbn13": 100000011000259,
+    "title": "ΦΥΣΙΚΗ ΑΓΩΓΗ Α   Β ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000259.jpg"
+  },
+  {
+    "isbn13": 100000012100743,
+    "title": "ΓΕΩΛΟΓΙΑ ΓΕΩΓΡΑΦΙΑ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100743.jpg"
+  },
+  {
+    "isbn13": 100000011001751,
+    "title": "ΜΟΥΣΙΚΗ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001751.jpg"
+  },
+  {
+    "isbn13": 100000012100484,
+    "title": "ΑΓΓΛΙΚΑ Α ΓΥΜΝΑΣΙΟΥ (THINK TEEN) ΠΡΟΧΩΡΗΜΕΝΟΙ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100484.jpg"
+  },
+  {
+    "isbn13": 100000012100354,
+    "title": "ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ Α ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100354.jpg"
+  },
+  {
+    "isbn13": 100000011001393,
+    "title": "ΕΙΚΑΣΤΙΚΑ Ε   ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001393.jpg"
+  },
+  {
+    "isbn13": 100000012100149,
+    "title": "ΓΕΩΛΟΓΙΑ ΓΕΩΓΡΑΦΙΑ Α ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100149.jpg"
+  },
+  {
+    "isbn13": 100000012101139,
+    "title": "ΑΓΓΛΙΚΑ Β ΓΥΜΝΑΣΙΟΥ (ΤΗΙΝΚ ΤΕΕΝ) ΠΡΟΧΩΡΗΜΕΝΟΙ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101139.jpg"
+  },
+  {
+    "isbn13": 100000011000761,
+    "title": "ΦΥΣΙΚΗ ΑΓΩΓΗ Γ   Δ ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000761.jpg"
+  },
+  {
+    "isbn13": 100000011001768,
+    "title": "ΜΟΥΣΙΚΗ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001768.jpg"
+  },
+  {
+    "isbn13": 100000011000730,
+    "title": "ΜΟΥΣΙΚΗ Γ   Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000730.jpg"
+  },
+  {
+    "isbn13": 100000011000235,
+    "title": "ΕΙΚΑΣΤΙΚΑ Α   Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000235.jpg"
+  },
+  {
+    "isbn13": 100000011000464,
+    "title": "ΜΟΥΣΙΚΗ Β ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000464.jpg"
+  },
+  {
+    "isbn13": 100000011000716,
+    "title": "ΕΙΚΑΣΤΙΚΑ Γ   Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000716.jpg"
+  },
+  {
+    "isbn13": 100000011000914,
+    "title": "ΙΣΤΟΡΙΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000914.jpg"
+  },
+  {
+    "isbn13": 100000011000747,
+    "title": "ΜΟΥΣΙΚΗ Γ   Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000747.jpg"
+  },
+  {
+    "isbn13": 100000011000181,
+    "title": "ΜΟΥΣΙΚΗ Α ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000181.jpg"
+  },
+  {
+    "isbn13": 100000012100781,
+    "title": "ΕΙΚΑΣΤΙΚΑ Β ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 0.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100781.jpg"
+  },
+  {
+    "isbn13": 100000011000471,
+    "title": "ΜΟΥΣΙΚΗ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000471.jpg"
+  },
+  {
+    "isbn13": 100000011001454,
+    "title": "ΦΥΣΙΚΗ ΑΓΩΓΗ Ε   ΣΤ ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001454.jpg"
+  },
+  {
+    "isbn13": 100000012100958,
+    "title": "ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ Α   Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100958.jpg"
+  },
+  {
+    "isbn13": 100000012100897,
+    "title": "ΜΟΥΣΙΚΗ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100897.jpg"
+  },
+  {
+    "isbn13": 100000011001485,
+    "title": "ΑΓΓΛΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001485.jpg"
+  },
+  {
+    "isbn13": 100000012202041,
+    "title": "ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ ΣΕ ΠΡΟΓΡΑΜΜΑΤΙΣΤΙΚΟ ΠΕΡΙΒΑΛΛΟΝ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ   ΠΛΗΡΟΦΟΡΙΚΗΣ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202041.jpg"
+  },
+  {
+    "isbn13": 100000012100194,
+    "title": "ΕΙΚΑΣΤΙΚΑ Α ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 0.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100194.jpg"
+  },
+  {
+    "isbn13": 100000011001409,
+    "title": "ΕΙΚΑΣΤΙΚΑ Ε   ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001409.jpg"
+  },
+  {
+    "isbn13": 100000012101344,
+    "title": "ΕΙΚΑΣΤΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 0.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101344.jpg"
+  },
+  {
+    "isbn13": 100000011000662,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Γ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000662.jpg"
+  },
+  {
+    "isbn13": 100000012100095,
+    "title": "ΒΙΟΛΟΓΙΑ Α (  Β) ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100095.jpg"
+  },
+  {
+    "isbn13": 100000012101467,
+    "title": "ΜΟΥΣΙΚΗ Γ ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101467.jpg"
+  },
+  {
+    "isbn13": 100000012101337,
+    "title": "ΕΙΚΑΣΤΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101337.jpg"
+  },
+  {
+    "isbn13": 100000012101108,
+    "title": "ΑΓΓΛΙΚΑ Β ΓΥΜΝΑΣΙΟΥ (THINK TEEN) ΑΡΧΑΡΙΟΙ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101108.jpg"
+  },
+  {
+    "isbn13": 100000012100187,
+    "title": "ΕΙΚΑΣΤΙΚΑ Α ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.55,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100187.jpg"
+  },
+  {
+    "isbn13": 100000012200054,
+    "title": "ΑΡΧΑΙΟΙ ΕΛΛΗΝΕΣ ΙΣΤΟΡΙΟΓΡΑΦΟΙ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ (ΦΥΛΛΑΔΙΟ ΑΡΧ.ΚΕΙΜΕΝΩΝ ΚΑΙ ΜΕΤΑΦΡΑΣΗ) ΚΕΙΜΕΝΟ ΜΕ ΠΑΡΑΛΛΗΛΕΣ ΜΕΤΑΦΡΑΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200054.jpg"
+  },
+  {
+    "isbn13": 100000012200436,
+    "title": "ΛΕΞΙΚΟ ΛΟΓΟΤΕΧΝΙΚΩΝ ΟΡΩΝ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200436.jpg"
+  },
+  {
+    "isbn13": 100000012200474,
+    "title": "ΒΙΟΛΟΓΙΑ Γ ΛΥΚ (ΤΕΥΧΟΣ Α) ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ ΚΑΙ ΥΓΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200474.jpg"
+  },
+  {
+    "isbn13": 100000012200313,
+    "title": "ΣΥΝΤΑΚΤΙΚΟ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ Α, Β Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200313.jpg"
+  },
+  {
+    "isbn13": 100000012200528,
+    "title": "ΙΣΤΟΡΙΑ ΤΟΥ ΜΕΣΑΙΩΝΙΚΟΥ ΚΑΙ ΤΟΥ ΝΕΟΤΕΡΟΥ ΚΟΣΜΟΥ 565-1815 Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200528.jpg"
+  },
+  {
+    "isbn13": 100000012101313,
+    "title": "ΔΡΑΜΑΤΙΚΗ ΠΟΙΗΣΗ: ΕΥΡΙΠΙΔΗ ΕΛΕΝΗ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101313.jpg"
+  },
+  {
+    "isbn13": 100000012101498,
+    "title": "ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Γ ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101498.jpg"
+  },
+  {
+    "isbn13": 100000012101399,
+    "title": "ΚΕΙΜΕΝΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 5.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101399.jpg"
+  },
+  {
+    "isbn13": 100000012101610,
+    "title": "ΧΗΜΕΙΑ Γ ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101610.jpg"
+  },
+  {
+    "isbn13": 100000012100224,
+    "title": "ΕΡΜΗΝΕΥΤΙΚΟ ΛΕΞΙΚΟ ΝΕΑΣ ΕΛΛΗΝΙΚΗΣ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 9.55,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100224.jpg"
+  },
+  {
+    "isbn13": 100000012100613,
+    "title": "ΛΕΞΙΚΟ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 6.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100613.jpg"
+  },
+  {
+    "isbn13": 100000012100606,
+    "title": "ΙΣΤΟΡΙΑ ΤΗΣ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Α, Β, Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100606.jpg"
+  },
+  {
+    "isbn13": 100000011001782,
+    "title": "ΦΥΣΙΚΑ (ΕΡΕΥΝΩ ΚΑΙ ΑΝΑΚΑΛΥΠΤΩ) ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001782.jpg"
+  },
+  {
+    "isbn13": 100000011001027,
+    "title": "ΤΟ ΛΕΞΙΚΟ ΜΑΣ Δ, Ε, ΣΤ ΔΗΜΟΤΙΚΟΥ (ΟΡΘΡΟΓΡΑΦΙΚΟ ΕΡΜΗΝΕΥΤΙΚΟ ΛΕΞΙΚΟ)",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.9,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001027.jpg"
+  },
+  {
+    "isbn13": 100000011000969,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000969.jpg"
+  },
+  {
+    "isbn13": 100000011000952,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 0.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000952.jpg"
+  },
+  {
+    "isbn13": 100000011000976,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Δ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000976.jpg"
+  },
+  {
+    "isbn13": 100000011000860,
+    "title": "ΓΛΩΣΣΑ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000860.jpg"
+  },
+  {
+    "isbn13": 100000011000853,
+    "title": "ΓΛΩΣΣΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000853.jpg"
+  },
+  {
+    "isbn13": 100000011000846,
+    "title": "ΓΛΩΣΣΑ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000846.jpg"
+  },
+  {
+    "isbn13": 100000011000839,
+    "title": "ΓΛΩΣΣΑ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000839.jpg"
+  },
+  {
+    "isbn13": 100000011000402,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Γ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 0.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000402.jpg"
+  },
+  {
+    "isbn13": 100000011000419,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Δ ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000419.jpg"
+  },
+  {
+    "isbn13": 100000012101122,
+    "title": "ΑΓΓΛΙΚΑ Β ΓΥΜΝΑΣΙΟΥ (THINK TEEN) ΠΡΟΧΩΡΗΜΕΝΟΙ ΒΙΒΛΙΟ ΜΑΘΗΤΗ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101122.jpg"
+  },
+  {
+    "isbn13": 100000012200047,
+    "title": "ΑΡΧΑΙΟΙ ΕΛΛΗΝΕΣ ΙΣΤΟΡΙΟΓΡΑΦΟΙ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200047.jpg"
+  },
+  {
+    "isbn13": 100000012200146,
+    "title": "ΕΚΦΡΑΣΗ ΕΚΘΕΣΗ Α ΛΥΚ. (ΤΕΥΧΟΣ Α)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200146.jpg"
+  },
+  {
+    "isbn13": 100000012100705,
+    "title": "ΑΡΧΑΙΑ ΕΛΛΑΔΑ - Ο ΤΟΠΟΣ ΚΑΙ ΟΙ ΑΝΘΡΩΠΟΙ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100705.jpg"
+  },
+  {
+    "isbn13": 100000012100750,
+    "title": "ΓΕΩΛΟΓΙΑ ΓΕΩΓΡΑΦΙΑ Β ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100750.jpg"
+  },
+  {
+    "isbn13": 100000012101214,
+    "title": "ΑΡΡΙΑΝΟΥ ΑΛΕΞΑΝΔΡΟΥ ΑΝΑΒΑΣΗ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101214.jpg"
+  },
+  {
+    "isbn13": 100000012101184,
+    "title": "ΑΝΘΟΛΟΓΙΟ ΦΙΛΟΣΟΦΙΚΩΝ ΚΕΙΜΕΝΩΝ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101184.jpg"
+  },
+  {
+    "isbn13": 100000012100033,
+    "title": "ΗΡΟΔΟΤΟΥ ΙΣΤΟΡΙΕΣ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100033.jpg"
+  },
+  {
+    "isbn13": 100000012101665,
+    "title": "ΑΓΓΛΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ (THINK TEEN) ΠΡΟΧΩΡΗΜΕΝΟΙ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101665.jpg"
+  },
+  {
+    "isbn13": 100000012101726,
+    "title": "ΓΕΡΜΑΝΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ (DEUTSCH EIN HIT 3) ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ (Β ΛΥΚΕΙΟΥ ΕΠΙΛΟΓΗΣ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101726.jpg"
+  },
+  {
+    "isbn13": 100000012101719,
+    "title": "ΓΕΡΜΑΝΙΚΑ (DEUTSCH EIN HIT 3) ΒΙΒΛΙΟ ΜΑΘΗΤΗ (Β ΛΥΚΕΙΟΥ ΕΠΙΛΟΓΗΣ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101719.jpg"
+  },
+  {
+    "isbn13": 100000011001294,
+    "title": "ΜΟΥΣΙΚΗ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001294.jpg"
+  },
+  {
+    "isbn13": 100000012101009,
+    "title": "ΦΥΣΙΚΗ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101009.jpg"
+  },
+  {
+    "isbn13": 100000012200139,
+    "title": "ΕΓΧΕΙΡΙΔΙΟ ΓΛΩΣΣΙΚΗΣ ΔΙΔΑΣΚΑΛΙΑΣ Α ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200139.jpg"
+  },
+  {
+    "isbn13": 100000012200115,
+    "title": "ΓΛΩΣΣΙΚΕΣ ΑΣΚΗΣΕΙΣ ΓΕΝΙΚΟ ΛΥΚΕΙΟ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200115.jpg"
+  },
+  {
+    "isbn13": 100000012201280,
+    "title": "ΛΥΣΕΙΣ ΑΡΧΕΣ ΟΙΚΟΝΟΜΙΚΗΣ ΘΕΩΡΙΑΣ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ   ΠΛΗΡΟΦΟΡΙΚΗΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201280.jpg"
+  },
+  {
+    "isbn13": 100000012201693,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.9,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201693.jpg"
+  },
+  {
+    "isbn13": 100000011000174,
+    "title": "ΜΟΥΣΙΚΗ Α ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011000174.jpg"
+  },
+  {
+    "isbn13": 100000011001300,
+    "title": "ΜΟΥΣΙΚΗ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001300.jpg"
+  },
+  {
+    "isbn13": 100000012200542,
+    "title": "ΚΕΙΜΕΝΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ Β ΤΕΥΧΟΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 6.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200542.jpg"
+  },
+  {
+    "isbn13": 100000012202089,
+    "title": "ΑΛΓΕΒΡΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202089.jpg"
+  },
+  {
+    "isbn13": 100000012202171,
+    "title": "ΧΗΜΕΙΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202171.jpg"
+  },
+  {
+    "isbn13": 100000012202188,
+    "title": "ΧΗΜΕΙΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202188.jpg"
+  },
+  {
+    "isbn13": 100000012202195,
+    "title": "ΦΥΣΙΚΗ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202195.jpg"
+  },
+  {
+    "isbn13": 100000012202218,
+    "title": "ΦΥΣΙΚΗ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202218.jpg"
+  },
+  {
+    "isbn13": 100000012202232,
+    "title": "ΦΥΣΙΚΗ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202232.jpg"
+  },
+  {
+    "isbn13": 100000012202263,
+    "title": "ΕΦΑΡΜΟΓΕΣ ΠΛΗΡΟΦΟΡΙΚΗΣ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202263.jpg"
+  },
+  {
+    "isbn13": 100000012202287,
+    "title": "ΠΟΛΙΤΙΚΗ ΠΑΙΔΕΙΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.55,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202287.jpg"
+  },
+  {
+    "isbn13": 100000012202300,
+    "title": "ΕΙΣΑΓΩΓΗ ΣΤΙΣ ΑΡΧΕΣ ΤΗΣ ΕΠΙΣΤΗΜΗΣ ΤΩΝ Η/Υ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202300.jpg"
+  },
+  {
+    "isbn13": 100000011001959,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001959.jpg"
+  },
+  {
+    "isbn13": 100000011001966,
+    "title": "ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ Δ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001966.jpg"
+  },
+  {
+    "isbn13": 100000011001973,
+    "title": "ΦΥΣΙΚΑ (ΕΡΕΥΝΩ ΚΑΙ ΑΝΑΚΑΛΥΠΤΩ) Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001973.jpg"
+  },
+  {
+    "isbn13": 100000011001881,
+    "title": "ΑΓΓΛΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ (MAGIC BOOK 2) ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.55,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001881.jpg"
+  },
+  {
+    "isbn13": 100000011001898,
+    "title": "ΑΓΓΛΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ (MAGIC BOOK 2) ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011001898.jpg"
+  },
+  {
+    "isbn13": 100000012101023,
+    "title": "ΦΥΣΙΚΗ Β ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101023.jpg"
+  },
+  {
+    "isbn13": 100000012100101,
+    "title": "ΒΙΟΛΟΓΙΑ Α (  Β) ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100101.jpg"
+  },
+  {
+    "isbn13": 100000012100361,
+    "title": "ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ Α ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100361.jpg"
+  },
+  {
+    "isbn13": 100000012100378,
+    "title": "ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ Α ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100378.jpg"
+  },
+  {
+    "isbn13": 100000012100965,
+    "title": "ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ Α   Β ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100965.jpg"
+  },
+  {
+    "isbn13": 100000012100972,
+    "title": "ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ Α   Β ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100972.jpg"
+  },
+  {
+    "isbn13": 100000012100453,
+    "title": "ΑΓΓΛΙΚΑ Α ΓΥΜΝΑΣΙΟΥ (THINK TEEN) ΑΡΧΑΡΙΟΙ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100453.jpg"
+  },
+  {
+    "isbn13": 100000012202362,
+    "title": "ΕΥΚΛΕΙΔΕΙΑ ΓΕΩΜΕΤΡΙΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΤΕΥΧΟΣ Α",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202362.jpg"
+  },
+  {
+    "isbn13": 100000012202355,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ Β ΜΕΡΟΣ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ   ΠΛΗΡΟΦ. ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202355.jpg"
+  },
+  {
+    "isbn13": 100000012101818,
+    "title": "ΓΑΛΛΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ (ACTION FR-GR 3) ΒΙΒΛΙΟ ΜΑΘΗΤΗ (Α ΛΥΚΕΙΟΥ ΕΠΙΛΟΓΗΣ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101818.jpg"
+  },
+  {
+    "isbn13": 100000012101801,
+    "title": "ΓΑΛΛΙΚΑ Α ΓΥΜΝΑΣΙΟΥ (ACTION FR-GR 1) ΒΙΒΛΙΟ ΜΑΘΗΤΗ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101801.jpg"
+  },
+  {
+    "isbn13": 100000012101832,
+    "title": "ΓΕΡΜΑΝΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ (DEUTSCH EIN HIT 2) ΒΙΒΛΙΟ ΜΑΘΗΤΗ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101832.jpg"
+  },
+  {
+    "isbn13": 100000012101825,
+    "title": "ΓΕΡΜΑΝΙΚΑ Α ΓΥΜΝΑΣΙΟΥ (DEUTSCH EIN HIT 1) ΒΙΒΛΙΟ ΜΑΘΗΤΗ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101825.jpg"
+  },
+  {
+    "isbn13": 100000012100996,
+    "title": "ΤΕΧΝΟΛΟΓΙΑ Β ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100996.jpg"
+  },
+  {
+    "isbn13": 100000012101078,
+    "title": "ΧΗΜΕΙΑ Β ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101078.jpg"
+  },
+  {
+    "isbn13": 100000012101634,
+    "title": "ΧΗΜΕΙΑ Γ ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101634.jpg"
+  },
+  {
+    "isbn13": 100000012101856,
+    "title": "ΓΑΛΛΙΚΑ Β ΓΥΜΝΑΣΙΟΥ (ACTION FR-GR 1 - ΤΕΥΧΟΣ Β) ΒΙΒΛΙΟ ΜΑΘΗΤΗ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101856.jpg"
+  },
+  {
+    "isbn13": 100000012101863,
+    "title": "ΓΕΡΜΑΝΙΚΑ Β ΓΥΜΝΑΣΙΟΥ (DEUTSCH EIN HIT 1 - ΤΕΥΧΟΣ Β) ΒΙΒΛΙΟ ΜΑΘΗΤΗ - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101863.jpg"
+  },
+  {
+    "isbn13": 100000012202393,
+    "title": "ΕΥΚΛΕΙΔΕΙΑ ΓΕΩΜΕΤΡΙΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΤΕΥΧΟΣ Β",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202393.jpg"
+  },
+  {
+    "isbn13": 100000012202409,
+    "title": "ΕΥΚΛΕΙΔΕΙΑ ΓΕΩΜΕΤΡΙΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΤΕΥΧΟΣ Β ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202409.jpg"
+  },
+  {
+    "isbn13": 100000012202447,
+    "title": "ΣΟΦΟΚΛΕΟΥΣ  ΑΝΤΙΓΟΝΗ  ΘΟΥΚΥΔΙΔΗ  ΠΕΡΙΚΛΕΟΥΣ ΕΠΙΤΑΦΙΟΣ  Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202447.jpg"
+  },
+  {
+    "isbn13": 100000011002024,
+    "title": "ΓΛΩΣΣΑ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ 2018",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002024.jpg"
+  },
+  {
+    "isbn13": 100000011002093,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ ΑΤΕΥΧΟΣ 2018",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002093.jpg"
+  },
+  {
+    "isbn13": 100000011002031,
+    "title": "ΚΟΙΝΩΝΙΚΗ ΚΑΙ ΠΟΛΙΤΙΚΗ ΑΓΩΓΗ Ε ΔΗΜΟΤΙΚΟΥ 2018",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002031.jpg"
+  },
+  {
+    "isbn13": 100000011002048,
+    "title": "ΚΟΙΝΩΝΙΚΗ ΚΑΙ ΠΟΛΙΤΙΚΗ ΑΓΩΓΗ ΣΤ ΔΗΜΟΤΙΚΟΥ 2018",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002048.jpg"
+  },
+  {
+    "isbn13": 100000012101917,
+    "title": "ΚΕΙΜΕΝΑ ΝΕΟΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ Β ΓΥΜΝΑΣΙΟΥ 2018",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 5.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101917.jpg"
+  },
+  {
+    "isbn13": 100000011002123,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Β ΤΕΥΧΟΣ 2018",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002123.jpg"
+  },
+  {
+    "isbn13": 100000012202478,
+    "title": "ΓΑΛΛΙΚΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΕΠΙΛΟΓΗΣ (ACTION.FR-GR 3) ΤΕΥΧΟΣ Β",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202478.jpg"
+  },
+  {
+    "isbn13": 100000012202485,
+    "title": "ΓΕΡΜΑΝΙΚΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ (DEUTSCH-EIN HIT 2 - ΤΕΥΧΟΣ Β) - ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202485.jpg"
+  },
+  {
+    "isbn13": 100000012202508,
+    "title": "ΑΓΓΛΙΚΑ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ 1 - Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202508.jpg"
+  },
+  {
+    "isbn13": 100000012202515,
+    "title": "ΑΓΓΛΙΚΑ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ 2 - Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202515.jpg"
+  },
+  {
+    "isbn13": 100000012202553,
+    "title": "ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΑ - ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ (ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202553.jpg"
+  },
+  {
+    "isbn13": 100000012202546,
+    "title": "ΛΟΓΟΤΕΧΝΙΑ - ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ/ΔΙΚΤΥΑ ΚΕΙΜΕΝΩΝ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.75,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202546.jpg"
+  },
+  {
+    "isbn13": 100000012202539,
+    "title": "ΔΙΚΤΥΟ ΚΕΙΜΕΝΩΝ - ΦΑΚΕΛΟΣ ΥΛΙΚΟΥ ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ 2019 Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202539.jpg"
+  },
+  {
+    "isbn13": 100000012102013,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Α ΓΥΜΝΑΣΙΟΥ 2020 - ΕΝΑ ΤΑΞΙΔΙ ΖΩΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102013.jpg"
+  },
+  {
+    "isbn13": 100000012102020,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Β ΓΥΜΝΑΣΙΟΥ 2020 - Η ΕΚΚΛΗΣΙΑ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.9,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102020.jpg"
+  },
+  {
+    "isbn13": 100000011002277,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Γ ΔΗΜΟΤΙΚΟΥ 2020 - ΑΝΑΚΑΛΥΠΤΟΥΜΕ ΕΙΚΟΝΕΣ, ΠΡΟΣΩΠΑ ΚΑΙ ΙΣΤΟΡΙΕΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002277.jpg"
+  },
+  {
+    "isbn13": 100000011002284,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ 2020 - ΑΝΑΚΑΛΥΠΤΟΥΜΕ ΕΙΚΟΝΕΣ, ΠΡΟΣΩΠΑ ΚΑΙ ΙΣΤΟΡΙΕΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.55,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002284.jpg"
+  },
+  {
+    "isbn13": 100000011002307,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ 2020 - ΑΝΑΚΑΛΥΠΤΟΥΜΕ ΚΕΙΜΕΝΑ, ΜΝΗΜΕΙΑ, ΤΟΠΟΥΣ ΚΑΙ ΓΕΓΟΝΟΤΑ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.45,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002307.jpg"
+  },
+  {
+    "isbn13": 100000012202638,
+    "title": "ΠΛΗΡΟΦΟΡΙΚΗ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ (ΛΥΣΕΙΣ ΤΩΝ ΑΣΚΗΣΕΩΝ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202638.jpg"
+  },
+  {
+    "isbn13": 100000011002314,
+    "title": "ΕΙΚΑΣΤΙΚΑ Α   Β ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002314.jpg"
+  },
+  {
+    "isbn13": 100000011002321,
+    "title": "ΑΓΓΛΙΚΑ Δ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002321.jpg"
+  },
+  {
+    "isbn13": 100000011002338,
+    "title": "ΑΓΓΛΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002338.jpg"
+  },
+  {
+    "isbn13": 100000011002345,
+    "title": "ΑΓΓΛΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002345.jpg"
+  },
+  {
+    "isbn13": 100000011002352,
+    "title": "ΑΓΓΛΙΚΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002352.jpg"
+  },
+  {
+    "isbn13": 100000011002369,
+    "title": "ΓΕΩΓΡΑΦΙΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002369.jpg"
+  },
+  {
+    "isbn13": 100000011002376,
+    "title": "ΓΕΩΓΡΑΦΙΑ ΣΤ ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002376.jpg"
+  },
+  {
+    "isbn13": 100000011002383,
+    "title": "ΕΙΚΟΝΟΓΡΑΦΗΜΕΝΟ ΛΕΞΙΚΟ Α, Β, Γ ΔΗΜΟΤΙΚΟΥ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 5.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002383.jpg"
+  },
+  {
+    "isbn13": 100000011002390,
+    "title": "ΓΕΩΓΡΑΦΙΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002390.jpg"
+  },
+  {
+    "isbn13": 100000011002406,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ Α ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002406.jpg"
+  },
+  {
+    "isbn13": 100000011002413,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Β ΤΕΥΧΟΣ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002413.jpg"
+  },
+  {
+    "isbn13": 100000011002420,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Ε ΔΗΜΟΤΙΚΟΥ - ΑΚΑΛΥΠΤΟΥΜΕ ΚΕΙΜΕΝΑ, ΜΝΗΜΕΙΑ, ΤΟΠΟΥΣ ΚΑΙ ΓΕΓΟΝΟΤΑ",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 2.35,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002420.jpg"
+  },
+  {
+    "isbn13": 100000012101627,
+    "title": "ΧΗΜΕΙΑ Γ ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101627.jpg"
+  },
+  {
+    "isbn13": 100000012102044,
+    "title": "ΑΓΓΛΙΚΑ ΑΡΧΑΡΙΩΝ Α ΓΥΜΝΑΣΙΟΥ-ΕΠΙΛΟΓΗΣ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 4.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102044.jpg"
+  },
+  {
+    "isbn13": 100000012102051,
+    "title": "ΑΓΓΛΙΚΑ ΠΡΟΧΩΡΗΜΕΝΩΝ Α ΓΥΜΝΑΣΙΟΥ-ΕΠΙΛΟΓΗΣ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 4.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102051.jpg"
+  },
+  {
+    "isbn13": 100000012102068,
+    "title": "ΑΓΓΛΙΚΑ ΑΡΧΑΡΙΩΝ Β ΓΥΜΝΑΣΙΟΥ-ΕΠΙΛΟΓΗΣ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102068.jpg"
+  },
+  {
+    "isbn13": 100000012102075,
+    "title": "ΝΕΟΤΕΡΗ ΚΑΙ ΣΥΓΧΡΟΝΗ ΙΣΤΟΡΙΑ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102075.jpg"
+  },
+  {
+    "isbn13": 100000012102082,
+    "title": "ΑΓΓΛΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102082.jpg"
+  },
+  {
+    "isbn13": 100000012102099,
+    "title": "ΚΟΙΝΩΝΙΚΗ ΚΑΙ ΠΟΛΙΤΙΚΗ ΑΓΩΓΗ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.9,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102099.jpg"
+  },
+  {
+    "isbn13": 100000012102105,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 5.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102105.jpg"
+  },
+  {
+    "isbn13": 100000012102112,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 5.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102112.jpg"
+  },
+  {
+    "isbn13": 100000012102136,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 5.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102136.jpg"
+  },
+  {
+    "isbn13": 100000012102129,
+    "title": "ΧΗΜΕΙΑ Β ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102129.jpg"
+  },
+  {
+    "isbn13": 100000012102143,
+    "title": "ΓΑΛΛΙΚΑ-MICRO-INTERVALLE Γ ΓΥΜΝΑΣΙΟΥ-ΕΠΙΛΟΓΗΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102143.jpg"
+  },
+  {
+    "isbn13": 100000012102150,
+    "title": "ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Α ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102150.jpg"
+  },
+  {
+    "isbn13": 100000012200481,
+    "title": "ΒΙΟΛΟΓΙΑ Γ ΛΥΚ. ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΥΓΕΙΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ (ΑΤΕΥΧΟΣ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 0.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200481.jpg"
+  },
+  {
+    "isbn13": 100000012200733,
+    "title": "ΒΙΟΛΟΓΙΑ Β ΛΥΚ. ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 0.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012200733.jpg"
+  },
+  {
+    "isbn13": 100000012201792,
+    "title": "ΒΙΟΛΟΓΙΑ Γ ΛΥΚ. ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΥΓΕΙΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ (ΤΕΥΧΟΣ Β)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 0.85,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012201792.jpg"
+  },
+  {
+    "isbn13": 100000012202683,
+    "title": "ΘΕΜΑΤΙΚΟΙ ΚΥΚΛΟΙ (ΕΚΦΡΑΣΗ-ΕΚΘΕΣΗ) ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 6.15,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202683.jpg"
+  },
+  {
+    "isbn13": 100000012202690,
+    "title": "ΣΤΟΙΧΕΙΑ ΠΙΘΑΝΟΤΗΤΩΝ ΚΑΙ ΣΤΑΤΙΣΤΙΚΗΣ Γ ΛΥΚΕΙΟΥ ΠΡΟΣ.ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202690.jpg"
+  },
+  {
+    "isbn13": 100000012202713,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202713.jpg"
+  },
+  {
+    "isbn13": 100000012202737,
+    "title": "ΜΑΘΗΜΑΤΙΚΑ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ Β ΜΕΡΟΣ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ   ΠΛΗΡΟΦ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202737.jpg"
+  },
+  {
+    "isbn13": 100000012202720,
+    "title": "ΧΗΜΕΙΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΛΥΣΕΙΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202720.jpg"
+  },
+  {
+    "isbn13": 100000012202768,
+    "title": "ΧΗΜΕΙΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202768.jpg"
+  },
+  {
+    "isbn13": 100000012202751,
+    "title": "ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ ΣΕ ΠΡΟΓΡΑΜΜΑΤΙΣΤΙΚΟ ΠΕΡΙΒΑΛΛΟΝ Γ ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 7.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202751.jpg"
+  },
+  {
+    "isbn13": 100000012202782,
+    "title": "ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ ΣΕ ΠΡΟΓΡΑΜΜΑΤΙΣΤΙΚΟ ΠΕΡΙΒΑΛΛΟΝ Γ ΛΥΚΕΙΟΥ(ΟΔΗΓΙΕΣ ΜΕΛΕΤΗΣ)",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202782.jpg"
+  },
+  {
+    "isbn13": 100000012202799,
+    "title": "ΠΛΗΡΟΦΟΡΙΚΗ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202799.jpg"
+  },
+  {
+    "isbn13": 100000012100118,
+    "title": "ΒΙΟΛΟΓΙΑ Α (  Β) ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012100118.jpg"
+  },
+  {
+    "isbn13": 100000012101061,
+    "title": "ΧΗΜΕΙΑ Β ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101061.jpg"
+  },
+  {
+    "isbn13": 100000012101269,
+    "title": "ΒΙΟΛΟΓΙΑ Β   Γ ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101269.jpg"
+  },
+  {
+    "isbn13": 100000012101276,
+    "title": "ΒΙΟΛΟΓΙΑ Β   Γ ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.3,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101276.jpg"
+  },
+  {
+    "isbn13": 100000012101573,
+    "title": "ΦΥΣΙΚΗ Γ ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101573.jpg"
+  },
+  {
+    "isbn13": 100000012101580,
+    "title": "ΦΥΣΙΚΗ Γ ΓΥΜΝΑΣΙΟΥ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΟΔΗΓΟΣ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012101580.jpg"
+  },
+  {
+    "isbn13": 100000012202805,
+    "title": "ΕΥΚΛΕΙΔΕΙΑ ΓΕΩΜΕΤΡΙΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΤΕΥΧΟΣ Α ΛΥΣΕΙΣ 2022",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202805.jpg"
+  },
+  {
+    "isbn13": 100000012202843,
+    "title": "ΑΛΓΕΒΡΑ ΚΑΙ ΣΤΟΙΧΕΙΑ ΠΙΘΑΝΟΤΗΤΩΝ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ 2023",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202843.jpg"
+  },
+  {
+    "isbn13": 100000012202812,
+    "title": "ΑΡΧΕΣ ΦΙΛΟΣΟΦΙΑΣ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΓΕΝΙΚΗΣ ΠΑΙΔΕΙΑΣ 2023",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 6.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202812.jpg"
+  },
+  {
+    "isbn13": 100000012202829,
+    "title": "ΦΥΣΙΚΗ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠ. ΥΓΕΙΑΣ ΤΕΥΧΟΣ Γ 2023",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 5.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202829.jpg"
+  },
+  {
+    "isbn13": 100000012202836,
+    "title": "ΦΥΣΙΚΗ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠ. ΥΓΕΙΑΣ ΤΕΥΧΟΣ Γ ΛΥΣΕΙΣ 2023",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.6,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202836.jpg"
+  },
+  {
+    "isbn13": 100000012102181,
+    "title": "ΜΟΥΣΙΚΗ Α ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ 2023",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102181.jpg"
+  },
+  {
+    "isbn13": 100000012102198,
+    "title": "ΜΟΥΣΙΚΗ Β ΓΥΜΝΑΣΙΟΥ ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ 2023",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.4,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102198.jpg"
+  },
+  {
+    "isbn13": 100000012102174,
+    "title": "ΜΟΥΣΙΚΗ Α ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ 2023",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102174.jpg"
+  },
+  {
+    "isbn13": 100000012102204,
+    "title": "ΜΟΥΣΙΚΗ Γ ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ 2023",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102204.jpg"
+  },
+  {
+    "isbn13": 100000011002451,
+    "title": "ΓΛΩΣΣΑ Ε ΔΗΜΟΤΙΚΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ Α ΤΕΥΧΟΣ 2024",
+    "school_level": "ΔΗΜΟΤΙΚΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000011002451.jpg"
+  },
+  {
+    "isbn13": 100000012202850,
+    "title": "ΑΡΧΕΣ ΟΙΚΟΝΟΜΙΚΗΣ ΘΕΩΡΙΑΣ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΥ ΣΠΟΥΔΩΝ ΟΙΚΟΝΟΜΙΑΣ   ΠΛΗΡΟΦΟΡΙΚΗΣ 2024",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.8,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202850.jpg"
+  },
+  {
+    "isbn13": 100000012202867,
+    "title": "ΛΑΤΙΝΙΚΑ Β ΛΥΚ (ΤΕΥΧΟΣ Α) ΑΝΘΡΩΠΙΣΤΙΚΩΝ ΣΠΟΥΔΩΝ Α ΤΕΥΧΟΣ 2024",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.35,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202867.jpg"
+  },
+  {
+    "isbn13": 100000012202874,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Α ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ 2024 - ΟΡΘΟΔΟΞΗ ΠΙΣΤΗ ΚΑΙ ΛΑΤΡΕΙΑ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 4.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202874.jpg"
+  },
+  {
+    "isbn13": 100000012202881,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Β ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ 2024 - ΧΡΙΣΤΙΑΝΙΣΜΟΣ ΚΑΙ ΘΡΗΣΚΕΥΜΑΤΑ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 3.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202881.jpg"
+  },
+  {
+    "isbn13": 100000012202898,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Γ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ 2024 - ΧΡΙΣΤΙΑΝΙΣΜΟΣ ΚΑΙ ΣΥΓΧΡΟΝΟΣ ΚΟΣΜΟΣ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.5,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202898.jpg"
+  },
+  {
+    "isbn13": 100000012102211,
+    "title": "ΘΡΗΣΚΕΥΤΙΚΑ Γ ΓΥΜΝΑΣΙΟΥ 2024",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102211.jpg"
+  },
+  {
+    "isbn13": 100000012102259,
+    "title": "ΠΛΗΡΟΦΟΡΙΚΗ Α ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.0,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102259.jpg"
+  },
+  {
+    "isbn13": 100000012102266,
+    "title": "ΠΛΗΡΟΦΟΡΙΚΗ Β ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 1.95,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102266.jpg"
+  },
+  {
+    "isbn13": 100000012102273,
+    "title": "ΠΛΗΡΟΦΟΡΙΚΗ Γ ΓΥΜΝΑΣΙΟΥ",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 2.05,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102273.jpg"
+  },
+  {
+    "isbn13": 100000012102310,
+    "title": "ΝΕΟΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ Γ ΓΥΜΝΑΣΙΟΥ ΒΙΒΛΙΟ ΜΑΘΗΤΗ 2025",
+    "school_level": "ΓΥΜΝΑΣΙΟ",
+    "price": 3.2,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012102310.jpg"
+  },
+  {
+    "isbn13": 100000012202935,
+    "title": "ΟΙΚΟΝΟΜΙΚΑ Α ΛΥΚΕΙΟΥ",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 2.25,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202935.jpg"
+  },
+  {
+    "isbn13": 100000012202973,
+    "title": "ΧΗΜΕΙΑ Γ ΛΥΚΕΙΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠΟΥΔΩΝ ΥΓΕΙΑΣ 2025",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 7.1,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202973.jpg"
+  },
+  {
+    "isbn13": 100000012202980,
+    "title": "ΧΗΜΕΙΑ Γ ΛΥΚΕΙΟΥ ΘΕΤΙΚΩΝ ΣΠΟΥΔΩΝ   ΣΠΟΥΔΩΝ ΥΓΕΙΑΣ ΛΥΣΕΙΣ 2025",
+    "school_level": "ΛΥΚΕΙΟ",
+    "price": 1.55,
+    "image": "https://tsigaridasbooks.gr/pub/media/import/images/0100000012202980.jpg"
+  }
+]
