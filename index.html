@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="el">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,54 +39,51 @@
 </div>
 
 <script>
-const cart = [];
-const cartItemsEl = document.getElementById('cart-items');
-const cartSubtotalEl = document.getElementById('cart-subtotal');
-const booksContainer = document.getElementById('books-container');
-let allBooks = [];
+// Load books from JSON
+let books = [];
+fetch('books.json')
+    .then(res => res.json())
+    .then(data => {
+        // Sort alphabetically by title
+        books = data.sort((a, b) => a.title.localeCompare(b.title, 'el'));
+        renderBooks();
+    });
 
-// Render books
-function renderBooks(cluster) {
-    booksContainer.innerHTML = '';
-    const filtered = allBooks.filter(book => cluster ? book.school_level === cluster : true);
-
-    filtered.forEach(book => {
+// Render book grid
+function renderBooks() {
+    const container = document.getElementById('books-container');
+    container.innerHTML = '';
+    books.forEach(book => {
         const card = document.createElement('div');
-        card.className = "book-card bg-white rounded-lg shadow hover:shadow-lg transition p-4 flex flex-col items-center text-center";
+        card.className = `book-card bg-white rounded-lg shadow hover:shadow-lg transition p-4 flex flex-col items-center text-center`;
+        card.dataset.cluster = book.school_level;
         card.innerHTML = `
-            <img src="${book.image_filename}" alt="${book.title}" class="h-48 w-full object-contain mb-4">
+            <img src="${book.image}" class="h-48 w-full object-contain mb-4" alt="${book.title}">
             <h2 class="font-semibold text-lg text-gray-800 mb-1">${book.title}</h2>
             <p class="text-sm text-gray-500 mb-2">${book.school_level}</p>
             <p class="text-xl font-bold text-gray-900 mb-3">${book.price}€</p>
             <button class="add-to-cart bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded transition w-full">Προσθήκη στο καλάθι</button>
         `;
-
-        card.querySelector('.add-to-cart').onclick = () => {
-            const existing = cart.find(item => item.title === book.title);
-            if (existing) {
-                existing.quantity += 1;
-            } else {
-                cart.push({ ...book, quantity: 1 });
-            }
-            renderCart();
-        };
-
-        booksContainer.appendChild(card);
+        container.appendChild(card);
     });
+    attachCartEvents();
 }
 
-// Render cart
+// Cart
+const cart = [];
+const cartItemsEl = document.getElementById('cart-items');
+const cartSubtotalEl = document.getElementById('cart-subtotal');
+
 function renderCart() {
     cartItemsEl.innerHTML = '';
     let subtotal = 0;
     cart.forEach((item, idx) => {
-        subtotal += parseFloat(item.price) * item.quantity;
-
+        subtotal += item.price * item.quantity;
         const li = document.createElement('li');
         li.className = "flex items-center justify-between p-2 bg-gray-50 rounded shadow-sm";
         li.innerHTML = `
             <div class="flex items-center gap-2">
-                <img src="${item.image_filename}" class="h-12 w-12 object-contain rounded">
+                <img src="${item.image}" class="h-12 w-12 object-contain rounded">
                 <span class="text-gray-800">${item.title} - ${item.price}€</span>
             </div>
             <div class="flex items-center gap-2">
@@ -100,18 +97,37 @@ function renderCart() {
     });
     cartSubtotalEl.textContent = subtotal.toFixed(2) + '€';
 
+    // Remove item
     document.querySelectorAll('.remove-item').forEach(btn => {
         btn.onclick = e => {
-            const index = e.target.dataset.idx;
-            cart.splice(index, 1);
+            cart.splice(e.target.dataset.idx, 1);
             renderCart();
         };
     });
 
+    // Quantity change
     document.querySelectorAll('.quantity-select').forEach(select => {
         select.onchange = e => {
-            const index = e.target.dataset.idx;
-            cart[index].quantity = parseInt(e.target.value);
+            cart[e.target.dataset.idx].quantity = parseInt(e.target.value);
+            renderCart();
+        };
+    });
+}
+
+function attachCartEvents() {
+    document.querySelectorAll('.add-to-cart').forEach(btn => {
+        btn.onclick = () => {
+            const card = btn.closest('.book-card');
+            const title = card.querySelector('h2').textContent;
+            const price = parseFloat(card.querySelector('p.text-xl').textContent.replace('€',''));
+            const image = card.querySelector('img').src;
+
+            const existing = cart.find(item => item.title === title);
+            if (existing) {
+                existing.quantity += 1;
+            } else {
+                cart.push({ title, price, image, quantity: 1 });
+            }
             renderCart();
         };
     });
@@ -123,21 +139,15 @@ document.getElementById('clear-cart').onclick = () => {
     renderCart();
 };
 
-// Cluster filtering
+// Filter by cluster
 document.querySelectorAll('.cluster-btn').forEach(btn => {
     btn.onclick = () => {
         const cluster = btn.dataset.cluster;
-        renderBooks(cluster);
+        document.querySelectorAll('.book-card').forEach(card => {
+            card.style.display = (card.dataset.cluster === cluster) ? '' : 'none';
+        });
     };
 });
-
-// Load books.json
-fetch('books.json')
-    .then(res => res.json())
-    .then(data => {
-        allBooks = data;
-        renderBooks("ΔΗΜΟΤΙΚΟ"); // default first cluster
-    });
 </script>
 
 </body>
