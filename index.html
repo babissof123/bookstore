@@ -5,10 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Βιβλιοπωλείο Πρωταγόρας</title>
 <script src="https://cdn.tailwindcss.com"></script>
+<style>
+    /* Overlay for mobile cart */
+    #cart-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.4);
+        z-index: 40;
+    }
+</style>
 </head>
 <body class="bg-gray-100 font-sans">
 
 <div class="container mx-auto p-6">
+
     <h1 class="text-4xl font-bold mb-6 text-center text-gray-800">Βιβλιοπωλείο Πρωταγόρας</h1>
 
     <!-- Cluster buttons -->
@@ -18,45 +29,59 @@
         <button class="cluster-btn px-4 py-2 rounded bg-purple-200 hover:bg-purple-300 transition" data-cluster="ΛΥΚΕΙΟ">ΛΥΚΕΙΟ</button>
     </div>
 
+    <!-- Mobile Cart Toggle -->
+    <div class="md:hidden mb-4 text-right">
+        <button id="toggle-cart" class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded transition">
+            Καλάθι
+        </button>
+    </div>
+
     <div class="flex flex-col md:flex-row gap-6">
         <!-- Books grid -->
-        <div id="books-container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 flex-1"></div>
+        <div id="books-container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 flex-1">
+            <!-- Book cards will be injected here via JS -->
+        </div>
 
         <!-- Cart sidebar -->
-        <div class="w-full md:w-80 bg-white p-6 rounded-lg shadow flex flex-col">
+        <div id="cart-sidebar" class="fixed top-0 right-0 h-full w-80 bg-white bg-opacity-90 p-6 shadow-lg transform translate-x-full transition-transform md:relative md:translate-x-0 md:w-auto z-50">
             <h2 class="text-2xl font-bold mb-4 text-gray-800">ΚΑΛΑΘΙ</h2>
-            
-            <!-- Subtotal and clear button always visible -->
+
             <div class="mb-4">
                 <p class="text-lg font-bold">Υποσύνολο: <span id="cart-subtotal">0.00€</span></p>
                 <button id="clear-cart" class="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded transition w-full mt-2">Καθαρισμός Καλαθιού</button>
             </div>
 
-            <!-- Scrollable cart items -->
             <ul id="cart-items" class="flex-1 overflow-y-auto space-y-3 max-h-[400px]"></ul>
         </div>
     </div>
 </div>
 
-<script>
-// Load books from JSON
-let books = [];
-fetch('books.json')
-    .then(res => res.json())
-    .then(data => {
-        // Sort alphabetically by title
-        books = data.sort((a, b) => a.title.localeCompare(b.title, 'el'));
-        renderBooks();
-    });
+<!-- Overlay for mobile cart -->
+<div id="cart-overlay"></div>
 
-// Render book grid
+<script>
+const booksData = [
+    // Example structure; replace with your JSON entries
+    {"title":"Book A","school_level":"ΔΗΜΟΤΙΚΟ","price":2.35,"image":"images/bookA.jpg"},
+    {"title":"Book B","school_level":"ΓΥΜΝΑΣΙΟ","price":3.50,"image":"images/bookB.jpg"},
+    {"title":"Book C","school_level":"ΛΥΚΕΙΟ","price":5.20,"image":"images/bookC.jpg"}
+];
+
+const booksContainer = document.getElementById('books-container');
+const cartSidebar = document.getElementById('cart-sidebar');
+const toggleCartBtn = document.getElementById('toggle-cart');
+const cartOverlay = document.getElementById('cart-overlay');
+
+let cart = [];
+
+// Render books
 function renderBooks() {
-    const container = document.getElementById('books-container');
-    container.innerHTML = '';
-    books.forEach(book => {
+    booksContainer.innerHTML = '';
+    booksData.forEach(book => {
         const card = document.createElement('div');
-        card.className = `book-card bg-white rounded-lg shadow hover:shadow-lg transition p-4 flex flex-col items-center text-center`;
+        card.className = "book-card bg-white rounded-lg shadow hover:shadow-lg transition p-4 flex flex-col items-center text-center";
         card.dataset.cluster = book.school_level;
+        card.style.display = 'none'; // Hide all by default
         card.innerHTML = `
             <img src="${book.image}" class="h-48 w-full object-contain mb-4" alt="${book.title}">
             <h2 class="font-semibold text-lg text-gray-800 mb-1">${book.title}</h2>
@@ -64,13 +89,12 @@ function renderBooks() {
             <p class="text-xl font-bold text-gray-900 mb-3">${book.price}€</p>
             <button class="add-to-cart bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded transition w-full">Προσθήκη στο καλάθι</button>
         `;
-        container.appendChild(card);
+        booksContainer.appendChild(card);
     });
     attachCartEvents();
 }
 
-// Cart
-const cart = [];
+// Cart render
 const cartItemsEl = document.getElementById('cart-items');
 const cartSubtotalEl = document.getElementById('cart-subtotal');
 
@@ -97,25 +121,26 @@ function renderCart() {
     });
     cartSubtotalEl.textContent = subtotal.toFixed(2) + '€';
 
-    // Remove item
     document.querySelectorAll('.remove-item').forEach(btn => {
         btn.onclick = e => {
-            cart.splice(e.target.dataset.idx, 1);
+            const index = e.target.dataset.idx;
+            cart.splice(index, 1);
             renderCart();
         };
     });
 
-    // Quantity change
     document.querySelectorAll('.quantity-select').forEach(select => {
         select.onchange = e => {
-            cart[e.target.dataset.idx].quantity = parseInt(e.target.value);
+            const index = e.target.dataset.idx;
+            cart[index].quantity = parseInt(e.target.value);
             renderCart();
         };
     });
 }
 
+// Attach "Add to cart" buttons
 function attachCartEvents() {
-    document.querySelectorAll('.add-to-cart').forEach(btn => {
+    document.querySelectorAll('.add-to-cart').forEach((btn, idx) => {
         btn.onclick = () => {
             const card = btn.closest('.book-card');
             const title = card.querySelector('h2').textContent;
@@ -139,7 +164,7 @@ document.getElementById('clear-cart').onclick = () => {
     renderCart();
 };
 
-// Filter by cluster
+// Cluster buttons
 document.querySelectorAll('.cluster-btn').forEach(btn => {
     btn.onclick = () => {
         const cluster = btn.dataset.cluster;
@@ -148,6 +173,22 @@ document.querySelectorAll('.cluster-btn').forEach(btn => {
         });
     };
 });
+
+// Mobile cart toggle
+toggleCartBtn.onclick = () => {
+    cartSidebar.classList.remove('translate-x-full');
+    cartOverlay.style.display = 'block';
+};
+
+// Click overlay to close cart
+cartOverlay.onclick = () => {
+    cartSidebar.classList.add('translate-x-full');
+    cartOverlay.style.display = 'none';
+};
+
+// Initial render
+renderBooks();
+renderCart();
 </script>
 
 </body>
