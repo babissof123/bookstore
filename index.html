@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="el">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,17 +20,7 @@
 
     <div class="flex flex-col md:flex-row gap-6">
         <!-- Books grid -->
-        <div id="books-container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 flex-1">
-            {% for book in books %}
-            <div class="book-card bg-white rounded-lg shadow hover:shadow-lg transition p-4 flex flex-col items-center text-center" data-cluster="{{ book['school_level'] }}">
-                <img src="{{ url_for('static', filename=book['image_filename']) }}" alt="{{ book['title'] }}" class="h-48 w-full object-contain mb-4">
-                <h2 class="font-semibold text-lg text-gray-800 mb-1">{{ book['title'] }}</h2>
-                <p class="text-sm text-gray-500 mb-2">{{ book['school_level'] }}</p>
-                <p class="text-xl font-bold text-gray-900 mb-3">{{ book['price'] }}€</p>
-                <button class="add-to-cart bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded transition w-full">Προσθήκη στο καλάθι</button>
-            </div>
-            {% endfor %}
-        </div>
+        <div id="books-container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 flex-1"></div>
 
         <!-- Cart sidebar -->
         <div class="w-full md:w-80 bg-white p-6 rounded-lg shadow flex flex-col">
@@ -49,23 +39,54 @@
 </div>
 
 <script>
-// JavaScript for cart functionality
-const books = Array.from(document.querySelectorAll('.book-card'));
 const cart = [];
 const cartItemsEl = document.getElementById('cart-items');
 const cartSubtotalEl = document.getElementById('cart-subtotal');
+const booksContainer = document.getElementById('books-container');
+let allBooks = [];
 
+// Render books
+function renderBooks(cluster) {
+    booksContainer.innerHTML = '';
+    const filtered = allBooks.filter(book => cluster ? book.school_level === cluster : true);
+
+    filtered.forEach(book => {
+        const card = document.createElement('div');
+        card.className = "book-card bg-white rounded-lg shadow hover:shadow-lg transition p-4 flex flex-col items-center text-center";
+        card.innerHTML = `
+            <img src="${book.image_filename}" alt="${book.title}" class="h-48 w-full object-contain mb-4">
+            <h2 class="font-semibold text-lg text-gray-800 mb-1">${book.title}</h2>
+            <p class="text-sm text-gray-500 mb-2">${book.school_level}</p>
+            <p class="text-xl font-bold text-gray-900 mb-3">${book.price}€</p>
+            <button class="add-to-cart bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded transition w-full">Προσθήκη στο καλάθι</button>
+        `;
+
+        card.querySelector('.add-to-cart').onclick = () => {
+            const existing = cart.find(item => item.title === book.title);
+            if (existing) {
+                existing.quantity += 1;
+            } else {
+                cart.push({ ...book, quantity: 1 });
+            }
+            renderCart();
+        };
+
+        booksContainer.appendChild(card);
+    });
+}
+
+// Render cart
 function renderCart() {
     cartItemsEl.innerHTML = '';
     let subtotal = 0;
     cart.forEach((item, idx) => {
-        subtotal += item.price * item.quantity;
+        subtotal += parseFloat(item.price) * item.quantity;
 
         const li = document.createElement('li');
         li.className = "flex items-center justify-between p-2 bg-gray-50 rounded shadow-sm";
         li.innerHTML = `
             <div class="flex items-center gap-2">
-                <img src="${item.image}" class="h-12 w-12 object-contain rounded">
+                <img src="${item.image_filename}" class="h-12 w-12 object-contain rounded">
                 <span class="text-gray-800">${item.title} - ${item.price}€</span>
             </div>
             <div class="flex items-center gap-2">
@@ -79,7 +100,6 @@ function renderCart() {
     });
     cartSubtotalEl.textContent = subtotal.toFixed(2) + '€';
 
-    // Remove single item
     document.querySelectorAll('.remove-item').forEach(btn => {
         btn.onclick = e => {
             const index = e.target.dataset.idx;
@@ -88,7 +108,6 @@ function renderCart() {
         };
     });
 
-    // Quantity change
     document.querySelectorAll('.quantity-select').forEach(select => {
         select.onchange = e => {
             const index = e.target.dataset.idx;
@@ -98,39 +117,27 @@ function renderCart() {
     });
 }
 
-// Add book to cart
-books.forEach(card => {
-    card.querySelector('.add-to-cart').onclick = () => {
-        const title = card.querySelector('h2').textContent;
-        const price = parseFloat(card.querySelector('p.text-xl').textContent.replace('€',''));
-        const image = card.querySelector('img').src;
-
-        // Check if book is already in cart
-        const existing = cart.find(item => item.title === title);
-        if (existing) {
-            existing.quantity += 1;
-        } else {
-            cart.push({ title, price, image, quantity: 1 });
-        }
-        renderCart();
-    };
-});
-
 // Clear cart
 document.getElementById('clear-cart').onclick = () => {
     cart.length = 0;
     renderCart();
 };
 
-// Cluster filtering (only three clusters)
+// Cluster filtering
 document.querySelectorAll('.cluster-btn').forEach(btn => {
     btn.onclick = () => {
         const cluster = btn.dataset.cluster;
-        books.forEach(card => {
-            card.style.display = (card.dataset.cluster === cluster) ? '' : 'none';
-        });
+        renderBooks(cluster);
     };
 });
+
+// Load books.json
+fetch('books.json')
+    .then(res => res.json())
+    .then(data => {
+        allBooks = data;
+        renderBooks("ΔΗΜΟΤΙΚΟ"); // default first cluster
+    });
 </script>
 
 </body>
